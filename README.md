@@ -1,4 +1,4 @@
-# Teach-and-Learn Projects
+Teach-and-Learn Projects
 
 A collection of beginner and intermediate projects built to explore core programming concepts across different platforms and languages.
 
@@ -8,7 +8,7 @@ The projects focus on:
 - Clear, modular implementations
 - Small, self-contained examples
 
-## Technologies
+Technologies
 - Arduino
 - Python
 - Roblox (Lua)
