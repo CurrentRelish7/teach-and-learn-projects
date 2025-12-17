@@ -1,14 +1,14 @@
-# Block-Based Collection Game
+ Block-Based Collection Game
 
-## Overview
+ Overview
 A small interactive project built using block-based programming to explore event-driven behavior, control flow, and state tracking.
 
-## Concepts
+ Concepts
 - Events
 - Loops
 - Conditionals
 - Variables
 - Motion and visual feedback
 
-## Notes
+ Notes
 I experimented with movement speed and collision conditions to keep the behavior simple and predictable.
