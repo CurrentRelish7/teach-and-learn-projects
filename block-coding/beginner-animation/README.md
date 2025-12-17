@@ -12,3 +12,6 @@ A small interactive project built using block-based programming to explore event
 
  Notes
 I experimented with movement speed and collision conditions to keep the behavior simple and predictable.
+
+
+Link to the game - https://scratch.mit.edu/projects/1257249688/ 
