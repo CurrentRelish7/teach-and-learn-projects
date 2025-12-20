@@ -13,6 +13,6 @@ Technologies
 - Python
 - Roblox (Lua)
 - Minecraft Education Edition
-- Block-Based Programming (Scratch / MakeCode)
+- Block-Based Programming 
 
 Each project includes a short description of the idea and the concepts involved.
